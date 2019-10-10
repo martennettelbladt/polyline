@@ -6,7 +6,9 @@ For example here: C:\Program Files\Autodesk\AutoCAD LT 2020\Fonts
 
 More info: http://martennettelbladt/polyline
 
-The .shp file can be edited in an editor like Notepad++
+The .shp file can be edited in an editor like Notepad++.
 Shapes of the letters are defined as coordinates.
-The .shx file is a compiled version of the .shp file
-To compile an .shp file you need a full version of AutoCAD, use the "Compile" command
+The .shx file is a compiled version of the .shp file.
+To compile an .shp file you need a full version of AutoCAD, use the "Compile" command.
+
+/Mårten
