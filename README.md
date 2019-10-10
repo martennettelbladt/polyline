@@ -12,3 +12,25 @@ The .shx file is a compiled version of the .shp file.
 To compile an .shp file you need a full version of AutoCAD, use the "Compile" command.
 
 /Mårten
+
+; --------------------------------------
+; * = start of character definition
+; 04D = unicode number
+; 21 = number of bits in definition
+;
+; 0 = end of character definition
+; 1 = pen down
+; 2 = pen up
+; 5 = store position (to stack)
+; 6 = get position (from stack)
+; 7 = insert character (unicode)
+; 8 = move one vector
+; 9 = move series of vectors
+;
+; (10,20) = vector coordinates
+; (0,0) = end of vector series
+;
+; nbsp = non-breaking space
+; shy = soft hyphen
+; 
+; --------------------------------------
