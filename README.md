@@ -1,6 +1,6 @@
 # polyline
 
-A monospaced 3×5 vector typeface designed in October 2014 and finalised in May 2018.
+A monospaced 3×5 vector typeface designed by Mårten Nettelbladt in October 2014 and finalised in May 2018.
 The .shx file is a native AutoCAD font file and should be placed in the Fonts folder of the AutoCAD installation.
 For example here: C:\Program Files\Autodesk\AutoCAD LT 2020\Fonts
 
